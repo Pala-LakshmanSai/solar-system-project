@@ -1,8 +1,14 @@
-# React + Vite
+# Solar System using threejs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+1. **Clone the repository:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+   ```bash
+   git clone https://github.com/Pala-LakshmanSai/solar-system-project
+   cd solar-system-project
+2. install dev dependencies 
+   ```bash
+    npm install
+3. run the project
+   ```bash
+    npm run dev
